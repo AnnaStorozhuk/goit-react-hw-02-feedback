@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Feedback/Feedback.module.css"],"names":[],"mappings":"AAAA,qBACE,UAAW,CACX,eACF,CAEA,oBACE,YAAa,CACb,kBACF","file":"main.c20ba19f.chunk.css","sourcesContent":[".btn {\n  margin: 5px;\n  list-style: none;\n}\n\n.li {\n  display: flex;\n  flex-direction: row;\n}\n"]}
