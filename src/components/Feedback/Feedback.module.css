@@ -1,0 +1,9 @@
+.btn {
+  margin: 5px;
+  list-style: none;
+}
+
+.li {
+  display: flex;
+  flex-direction: row;
+}
